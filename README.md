@@ -4,8 +4,8 @@
 
 # QPACK Interop Format
 
-![GitHub repo size](https://img.shields.io/github/repo-size/NguyenHien-8/qpack-interop-format)
-[![GitHub license](https://img.shields.io/github/license/NguyenHien-8/qpack-interop-format)](https://github.com/TCQ-Network-Protocol/Qpack_Interop_Format/blob/master/LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/TCQ-Network-Protocol/Qpack_Interop_Format)
+[![GitHub license](https://img.shields.io/github/license/TCQ-Network-Protocol/Qpack_Interop_Format)](https://github.com/TCQ-Network-Protocol/Qpack_Interop_Format/blob/master/LICENSE)
 
 This repository is for storing QIFs used in QPACK development and interop experiments.
 
